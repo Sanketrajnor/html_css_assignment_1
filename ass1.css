@@ -1,0 +1,31 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  #contact-container {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  /* Add any additional styles as desired */
+  
